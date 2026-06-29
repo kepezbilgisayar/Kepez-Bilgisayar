@@ -1,2 +1,4 @@
 node_modules/
 magaza.sqlite
+.env
+node_modules/

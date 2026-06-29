@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": 1782752403210,
+    "urun_turu": "Laptop",
+    "urun_adi": "HP İ5-12 .TH",
+    "marka": "HP",
+    "model": "PROBOOK",
+    "seri_no": "123",
+    "durum": "Sıfır",
+    "alis_tarihi": "2026-06-29",
+    "garanti_bitis": "2026-06-30",
+    "maliyet": "10",
+    "fiyat": "20",
+    "aciklama": "123",
+    "stok_durumu": "Stokta",
+    "satis_tarihi": "",
+    "odeme_yontemi": "Nakit",
+    "musteri_ad": "",
+    "musteri_tel": ""
+  }
+]
